@@ -274,7 +274,8 @@ Following the two-state framework of \citet{LeGat2013} and
 age-specific failure intensity of a never-failed pipe, and let the
 post-repair intensity of a previously failed pipe be amplified by a factor
 $\phi \ge 1$ (the LEYP2s Yule factor is the more general
-$(1+\alpha N(t-))$; we use the constant-$\phi$ special case). Renewal
+$(1+\alpha N(t-))$; we use the constant-$\phi$ special case), as sketched in
+Fig.~\ref{fig:model}. Renewal
 removes N-state pipes at rate $r_0$ and B-state pipes at rate $s r_0$; the
 excess removal intensity is $\gamma = r_0(s-1) \ge 0$, and $s>1$ means
 renewal is selective for failed pipes. An analyst who ignores the failure
@@ -304,6 +305,20 @@ assumption on $s$, $r_0$, $\beta$ or $\lambda$ --- by
 \end{equation}
 Both factors of \eqref{eq:bound} are observable: $\phi$ from the
 age-stratified rate ratio, $p$ from the state composition of the risk set.
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=0.62\textwidth]{../figs/fig1_model.pdf}
+\caption{Two-state competing-risks model with selective renewal. A never-failed
+pipe (state N) fails at intensity $h(a)=\lambda a^{\beta-1}$ and moves to state
+B; repair is instantaneous, so B is entered and retained. Pipes in N are renewed
+at rate $r_0$ and pipes in B at rate $s\,r_0$, so the excess removal intensity of
+previously failed pipes is $\gamma=r_0(s-1)$. Recurrence while in B occurs at
+$\phi\,h(a)$. The information survival curve $S_I(a;\gamma)$
+(Section~\ref{sec:horizon}) measures how much of the age range still carries
+identifiable information about $\beta$ once removal is selective.}
+\label{fig:model}
+\end{figure}
 
 \subsection{Estimation}
 We estimate $\phi$ by the age-stratified Mantel--Haenszel rate ratio
@@ -338,8 +353,8 @@ records.}
 \toprule
  & $\hat\phi$ & 95\,\% CI & events (first/recurrent) \\
 \midrule
-Before repair & 1.4253 & [@@1.2802, 1.5870] & 1005 / 1027 \\
-After repair  & 1.4141 & [@@1.2699, 1.5746] & 1009 / 1023 \\
+Before repair & 1.4253 & [1.2802, 1.5870] & 1005 / 1027 \\
+After repair  & 1.4141 & [1.2699, 1.5746] & 1009 / 1023 \\
 \bottomrule
 \end{tabular}
 \end{table}

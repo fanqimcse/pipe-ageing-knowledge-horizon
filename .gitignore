@@ -1,0 +1,5 @@
+# never commit credentials
+.ghtok
+*.ghtok
+__pycache__/
+*.pyc
