@@ -1,0 +1,37 @@
+Scheidegger2013        blocked   arxiv query HTTPError
+Scheidegger2015        blocked   arxiv query HTTPError
+LeGat2013              blocked   arxiv query HTTPError
+LeGat2000              blocked   arxiv query HTTPError
+Renaud2012             blocked   arxiv query HTTPError
+Renaud2014             blocked   arxiv query HTTPError
+LeGat2013b             blocked   arxiv query HTTPError
+Kleiner2001            blocked   arxiv query HTTPError
+Kleiner2002            blocked   arxiv query HTTPError
+Rajani2012             blocked   arxiv query HTTPError
+Alvisi2010             blocked   arxiv query HTTPError
+Winkler2018            blocked   arxiv query HTTPError
+Ouellet2018            blocked   arxiv query HTTPError
+Cox1972                blocked   arxiv query HTTPError
+Mantel1959             blocked   arxiv query HTTPError
+Aalen1978              blocked   arxiv query HTTPError
+Nelson1969             blocked   arxiv query HTTPError
+Prentice1981           blocked   arxiv query HTTPError
+Andersen1993           blocked   arxiv query HTTPError
+Kalbfleisch2002        blocked   arxiv query HTTPError
+KleinMoeschberger2003  blocked   arxiv query HTTPError
+Slud1983               blocked   arxiv query HTTPError
+Zheng1995              blocked   arxiv query HTTPError
+Tsiatis1975            blocked   arxiv query HTTPError
+Crowder1994            blocked   arxiv query HTTPError
+Scharfstein1999        blocked   arxiv query HTTPError
+Wang2001               blocked   arxiv query HTTPError
+Lin1995                blocked   arxiv query TimeoutError
+Bartlett2014           blocked   arxiv query HTTPError
+Manski2003             blocked   arxiv query HTTPError
+Tamer2010              blocked   arxiv query HTTPError
+Hardt2025              OK        already present
+Drent2020              blocked   arxiv query HTTPError
+BarlowProschan1965     blocked   arxiv query TimeoutError
+
+downloaded this round: 1
+total PDFs on disk: 1

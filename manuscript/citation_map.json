@@ -7,16 +7,15 @@
   "year": "2013",
   "note": "被更换管道造成的数据缺失；failure model + replacement model 联合似然",
   "sentences": [
-   "Physically, a replaced pipe disappears from the asset register of the old pipe, so part of the failure history is missing by construction  \\citep {Scheidegger2013,Ouellet2018}.",
-   "In the water-domain literature,  \\citet {Scheidegger2013} treat missing replaced-pipe data by augmenting the likelihood with a renewal model, and the LEYP2s model of  \\citet {LeGat2013} embeds the post-failure repair probability and a Yule-type amplification of the failure rate in the number of past failures.",
-   "We do not propose a new failure model; the models we use are instances of established frameworks  \\citep {LeGat2013,Scheidegger2013}.",
-   " \\section {The recurrence rate ratio and the direction of bias}  \\label {sec:phi}  \\subsection {Estimand} Following the two-state framework of  \\citet {LeGat2013} and  \\citet {Scheidegger2013}, let $h(a)= \\lambda  a^{ \\beta -1}$ be the age-specific failure intensity of a never-failed pipe, and let the post-repair intensity of a previously failed pipe be amplified by a factor $ \\phi   \\ge  1$ (the LEYP2s Yule factor is the more general $(1+ \\alpha  N(t-))$; we use the constant-$ \\phi $ special case), as sketched in Fig.~ \\ref {fig:model}.",
-   "Claims about 60- or 90-year-old pipes made from these records are claims about a chosen shape, not measurements --- a point the competing-risks literature has made for half a century  \\citep {Tsiatis1975,Crowder1994} and that the water-domain corrected estimators  \\citep {Scheidegger2013,LeGat2013} implicitly inherit.",
-   "(iv)~The two-state model with instantaneous repair and constant $ \\phi $ is a special case of established frameworks  \\citep {LeGat2013,Scheidegger2013}; we use it because its bias is analytically tractable and bounded, not because it is the best available description of the data.",
-   " \\subsection {Relation to prior work} The corrected-estimator route of  \\citet {Scheidegger2013} and  \\citet {LeGat2013} and the audit route of  \\citet {Bartlett2014} are complementary to what we do here: we neither propose a new estimator nor a new correction, but (a) document a record-linkage defect that any of those methods would silently absorb, (b) give the horizon construct  \\eqref {eq:SI}--(P3) that makes ``how far can we see'' a number rather than a slogan, and (c) show that the ambiguity a horizon implies is resolvable by a randomised deferral of exactly the kind that reliability theo"
+   "Physically, a replaced pipe disappears from the asset register of the old pipe, so part of the failure history is missing by construction \\citep {Scheidegger2013,Ouellet2018}.",
+   "In the water-domain literature, \\citet {Scheidegger2013} treat missing replaced-pipe data by augmenting the likelihood with a renewal model, and the LEYP2s model of \\citet {LeGat2013} embeds the post-failure repair probability and a Yule-type amplification of the failure rate in the number of past failures.",
+   "We do not propose a new failure model; the models we use are instances of established frameworks \\citep {LeGat2013,Scheidegger2013}.",
+   "Following the two-state framework of \\citet {LeGat2013} and \\citet {Scheidegger2013}, let $h(a)= \\lambda a^{ \\beta -1}$ be the age-specific failure intensity of a never-failed pipe, and let the post-repair intensity of a previously failed pipe be amplified by a factor $ \\phi \\ge 1$ (the LEYP2s Yule factor is the more general $(1+ \\alpha N(t-))$; we use the constant-$ \\phi $ special case), as sketched in Fig.~ \\ref...",
+   "Claims about 60- or 90-year-old pipes made from these records are claims about a chosen shape, not measurements --- a point the competing-risks literature has made for half a century \\citep {Tsiatis1975,Crowder1994} and that the water-domain corrected estimators \\citep {Scheidegger2013,LeGat2013} implicitly inherit.",
+   "(iv)~The two-state model with instantaneous repair and constant $ \\phi $ is a special case of established frameworks \\citep {LeGat2013,Scheidegger2013}; we use it because its bias is analytically tractable and bounded, not because it is the best available description of the data.",
+   "The corrected-estimator route of \\citet {Scheidegger2013} and \\citet {LeGat2013} and the audit route of \\citet {Bartlett2014} are complementary to what we do here: we neither propose a new estimator nor a new correction, but (a) document a record-linkage defect that any of those methods would silently absorb, (b) give the horizon construct \\eqref {eq:SI}--(P3) that makes ``how far can we see'' a number rather than..."
   ],
   "pdf": [
-   "Scheidegger2013          blocked  SSLError",
    "Scheidegger2013          10.1016/j.watres.2013.04.017         paywalled-or-blocked   https://www.dora.lib4ri.ch/eawag/item/eawag:7286 -> SSLError: HTTPSConnectionPool(host='www.dora.lib4ri.ch', port=443): Max retries exceeded with url: /"
   ]
  },
@@ -28,11 +27,10 @@
   "year": "2015",
   "note": "管道失效统计模型综述（统一视角）",
   "sentences": [
-   " \\documentclass [review,12pt,authoryear]{elsarticle}  \\usepackage {amsmath,amssymb}  \\usepackage {graphicx}  \\usepackage {booktabs}  \\usepackage {multirow}  \\usepackage [colorlinks=true,linkcolor=blue,citecolor=blue,urlcolor=blue]{hyperref}  \\usepackage {lineno}  \\modulolinenumbers [5]  \\emergencystretch =1.5em  \\journal {Water Research}  \\begin {document}  \\begin {frontmatter}  \\title {How much can a water utility learn about pipe ageing from its own failure records? Merged replacement histories, selective renewal, and the limits of inference}  \\author [a]{First Author \\corref {cor1}}  \\ead {",
-   "Throughout, a pipe's state is N (never failed within the observation window) or B (failed at least once and instantaneously repaired, the standard assumption in this literature  \\citep {LeGat2013,Scheidegger2015})."
+   "Statistical deterioration models are the quantitative backbone of pipe renewal planning: they translate administrative failure records into age-specific failure intensities, remaining-life estimates and renewal budgets \\citep {Kleiner2001,Kleiner2002,Scheidegger2015}, and a large methodological literature has grown around extracting them from administrative records \\citep {LeGat2000,Alvisi2010,Winkler2018,Rajani20...",
+   "Throughout, a pipe's state is N (never failed within the observation window) or B (failed at least once and instantaneously repaired, the standard assumption in this literature \\citep {LeGat2013,Scheidegger2015})."
   ],
   "pdf": [
-   "Scheidegger2015          blocked  SSLError",
    "Scheidegger2015          10.1016/j.watres.2015.06.027         paywalled-or-blocked   https://www.dora.lib4ri.ch/eawag/item/eawag:8185 -> SSLError: HTTPSConnectionPool(host='www.dora.lib4ri.ch', port=443): Max retries exceeded with url: /"
   ]
  },
@@ -44,17 +42,16 @@
   "year": "2014",
   "note": "LEYP2s：失效后修复概率 + Yule 因子；我们的 φ 是其退化特例",
   "sentences": [
-   "In the water-domain literature,  \\citet {Scheidegger2013} treat missing replaced-pipe data by augmenting the likelihood with a renewal model, and the LEYP2s model of  \\citet {LeGat2013} embeds the post-failure repair probability and a Yule-type amplification of the failure rate in the number of past failures.",
-   "We do not propose a new failure model; the models we use are instances of established frameworks  \\citep {LeGat2013,Scheidegger2013}.",
-   "Throughout, a pipe's state is N (never failed within the observation window) or B (failed at least once and instantaneously repaired, the standard assumption in this literature  \\citep {LeGat2013,Scheidegger2015}).",
-   "Both the recurrence rate ratio (Section~ \\ref {sec:phi}) and any covariate depending on the number of past failures  \\citep {LeGat2013} are affected.",
-   " \\section {The recurrence rate ratio and the direction of bias}  \\label {sec:phi}  \\subsection {Estimand} Following the two-state framework of  \\citet {LeGat2013} and  \\citet {Scheidegger2013}, let $h(a)= \\lambda  a^{ \\beta -1}$ be the age-specific failure intensity of a never-failed pipe, and let the post-repair intensity of a previously failed pipe be amplified by a factor $ \\phi   \\ge  1$ (the LEYP2s Yule factor is the more general $(1+ \\alpha  N(t-))$; we use the constant-$ \\phi $ special case), as sketched in Fig.~ \\ref {fig:model}.",
-   "Claims about 60- or 90-year-old pipes made from these records are claims about a chosen shape, not measurements --- a point the competing-risks literature has made for half a century  \\citep {Tsiatis1975,Crowder1994} and that the water-domain corrected estimators  \\citep {Scheidegger2013,LeGat2013} implicitly inherit.",
-   "(iv)~The two-state model with instantaneous repair and constant $ \\phi $ is a special case of established frameworks  \\citep {LeGat2013,Scheidegger2013}; we use it because its bias is analytically tractable and bounded, not because it is the best available description of the data.",
-   " \\subsection {Relation to prior work} The corrected-estimator route of  \\citet {Scheidegger2013} and  \\citet {LeGat2013} and the audit route of  \\citet {Bartlett2014} are complementary to what we do here: we neither propose a new estimator nor a new correction, but (a) document a record-linkage defect that any of those methods would silently absorb, (b) give the horizon construct  \\eqref {eq:SI}--(P3) that makes ``how far can we see'' a number rather than a slogan, and (c) show that the ambiguity a horizon implies is resolvable by a randomised deferral of exactly the kind that reliability theo"
+   "In the water-domain literature, \\citet {Scheidegger2013} treat missing replaced-pipe data by augmenting the likelihood with a renewal model, and the LEYP2s model of \\citet {LeGat2013} embeds the post-failure repair probability and a Yule-type amplification of the failure rate in the number of past failures.",
+   "We do not propose a new failure model; the models we use are instances of established frameworks \\citep {LeGat2013,Scheidegger2013}.",
+   "Throughout, a pipe's state is N (never failed within the observation window) or B (failed at least once and instantaneously repaired, the standard assumption in this literature \\citep {LeGat2013,Scheidegger2015}).",
+   "Both the recurrence rate ratio (Section~ \\ref {sec:phi}) and any covariate depending on the number of past failures \\citep {LeGat2013} are affected.",
+   "Following the two-state framework of \\citet {LeGat2013} and \\citet {Scheidegger2013}, let $h(a)= \\lambda a^{ \\beta -1}$ be the age-specific failure intensity of a never-failed pipe, and let the post-repair intensity of a previously failed pipe be amplified by a factor $ \\phi \\ge 1$ (the LEYP2s Yule factor is the more general $(1+ \\alpha N(t-))$; we use the constant-$ \\phi $ special case), as sketched in Fig.~ \\ref...",
+   "Claims about 60- or 90-year-old pipes made from these records are claims about a chosen shape, not measurements --- a point the competing-risks literature has made for half a century \\citep {Tsiatis1975,Crowder1994} and that the water-domain corrected estimators \\citep {Scheidegger2013,LeGat2013} implicitly inherit.",
+   "(iv)~The two-state model with instantaneous repair and constant $ \\phi $ is a special case of established frameworks \\citep {LeGat2013,Scheidegger2013}; we use it because its bias is analytically tractable and bounded, not because it is the best available description of the data.",
+   "The corrected-estimator route of \\citet {Scheidegger2013} and \\citet {LeGat2013} and the audit route of \\citet {Bartlett2014} are complementary to what we do here: we neither propose a new estimator nor a new correction, but (a) document a record-linkage defect that any of those methods would silently absorb, (b) give the horizon construct \\eqref {eq:SI}--(P3) that makes ``how far can we see'' a number rather than..."
   ],
   "pdf": [
-   "LeGat2013                blocked  HTTP 429 @api.semanticscholar.org",
    "LeGat2013                10.1080/1573062x.2013.783088         paywalled-or-blocked   https://hal.inrae.fr/hal-02600156 -> not a PDF (12607 bytes, b'<!doctype ht')"
   ]
  },
@@ -66,10 +63,9 @@
   "year": "2000",
   "note": "用维修记录预测供水网络失效（早期非齐次 Poisson / 队列方法）",
   "sentences": [
-   " \\documentclass [review,12pt,authoryear]{elsarticle}  \\usepackage {amsmath,amssymb}  \\usepackage {graphicx}  \\usepackage {booktabs}  \\usepackage {multirow}  \\usepackage [colorlinks=true,linkcolor=blue,citecolor=blue,urlcolor=blue]{hyperref}  \\usepackage {lineno}  \\modulolinenumbers [5]  \\emergencystretch =1.5em  \\journal {Water Research}  \\begin {document}  \\begin {frontmatter}  \\title {How much can a water utility learn about pipe ageing from its own failure records? Merged replacement histories, selective renewal, and the limits of inference}  \\author [a]{First Author \\corref {cor1}}  \\ead {"
+   "Statistical deterioration models are the quantitative backbone of pipe renewal planning: they translate administrative failure records into age-specific failure intensities, remaining-life estimates and renewal budgets \\citep {Kleiner2001,Kleiner2002,Scheidegger2015}, and a large methodological literature has grown around extracting them from administrative records \\citep {LeGat2000,Alvisi2010,Winkler2018,Rajani20..."
   ],
   "pdf": [
-   "LeGat2000                blocked  HTTP 429 @api.semanticscholar.org",
    "LeGat2000                10.1016/s1462-0758(00)00057-1        paywalled-or-blocked   https://irsteadoc.irstea.fr/cemoa/PUB00008964 -> SSLError: HTTPSConnectionPool(host='irsteadoc.irstea.fr', port=443): Max retries exceeded with url:"
   ]
  },
@@ -81,10 +77,9 @@
   "year": "2012",
   "note": "破裂预测模型用于资产管理：从研究到实践",
   "sentences": [
-   " \\documentclass [review,12pt,authoryear]{elsarticle}  \\usepackage {amsmath,amssymb}  \\usepackage {graphicx}  \\usepackage {booktabs}  \\usepackage {multirow}  \\usepackage [colorlinks=true,linkcolor=blue,citecolor=blue,urlcolor=blue]{hyperref}  \\usepackage {lineno}  \\modulolinenumbers [5]  \\emergencystretch =1.5em  \\journal {Water Research}  \\begin {document}  \\begin {frontmatter}  \\title {How much can a water utility learn about pipe ageing from its own failure records? Merged replacement histories, selective renewal, and the limits of inference}  \\author [a]{First Author \\corref {cor1}}  \\ead {"
+   "Statistical deterioration models are the quantitative backbone of pipe renewal planning: they translate administrative failure records into age-specific failure intensities, remaining-life estimates and renewal budgets \\citep {Kleiner2001,Kleiner2002,Scheidegger2015}, and a large methodological literature has grown around extracting them from administrative records \\citep {LeGat2000,Alvisi2010,Winkler2018,Rajani20..."
   ],
   "pdf": [
-   "Renaud2012               blocked  HTTP 429 @api.semanticscholar.org",
    "Renaud2012               10.2166/ws.2012.040                  paywalled-or-blocked   https://hal.inrae.fr/hal-02597881 -> not a PDF (12607 bytes, b'<!doctype ht')"
   ]
  },
@@ -96,7 +91,7 @@
   "year": "2014",
   "note": "「寿命」不是管道更新策略的恰当概念",
   "sentences": [
-   "Ageing-intensity estimates are routinely extrapolated to ages at which the network holds most of its value, while the observation window of the records is short relative to asset lives  \\citep {Renaud2014,LeGat2013b}."
+   "Ageing-intensity estimates are routinely extrapolated to ages at which the network holds most of its value, while the observation window of the records is short relative to asset lives \\citep {Renaud2014,LeGat2013b}."
   ],
   "pdf": [
    "Renaud2014               10.2166/wpt.2014.032                 paywalled-or-blocked   https://irsteadoc.irstea.fr/cemoa/PUB00042134 -> SSLError: HTTPSConnectionPool(host='irsteadoc.irstea.fr', port=443): Max retries exceeded with url:"
@@ -110,7 +105,7 @@
   "year": "2013",
   "note": "服务寿命与失效率是否相关（更换与失效的耦合）",
   "sentences": [
-   "Ageing-intensity estimates are routinely extrapolated to ages at which the network holds most of its value, while the observation window of the records is short relative to asset lives  \\citep {Renaud2014,LeGat2013b}."
+   "Ageing-intensity estimates are routinely extrapolated to ages at which the network holds most of its value, while the observation window of the records is short relative to asset lives \\citep {Renaud2014,LeGat2013b}."
   ],
   "pdf": [
    "LeGat2013b               10.2166/ws.2013.089                  paywalled-or-blocked   https://irsteadoc.irstea.fr/cemoa/PUB00039690 -> SSLError: HTTPSConnectionPool(host='irsteadoc.irstea.fr', port=443): Max retries exceeded with url:"
@@ -124,7 +119,7 @@
   "year": "2001",
   "note": "水管理化统计模型综述（领域背景）",
   "sentences": [
-   " \\documentclass [review,12pt,authoryear]{elsarticle}  \\usepackage {amsmath,amssymb}  \\usepackage {graphicx}  \\usepackage {booktabs}  \\usepackage {multirow}  \\usepackage [colorlinks=true,linkcolor=blue,citecolor=blue,urlcolor=blue]{hyperref}  \\usepackage {lineno}  \\modulolinenumbers [5]  \\emergencystretch =1.5em  \\journal {Water Research}  \\begin {document}  \\begin {frontmatter}  \\title {How much can a water utility learn about pipe ageing from its own failure records? Merged replacement histories, selective renewal, and the limits of inference}  \\author [a]{First Author \\corref {cor1}}  \\ead {"
+   "Statistical deterioration models are the quantitative backbone of pipe renewal planning: they translate administrative failure records into age-specific failure intensities, remaining-life estimates and renewal budgets \\citep {Kleiner2001,Kleiner2002,Scheidegger2015}, and a large methodological literature has grown around extracting them from administrative records \\citep {LeGat2000,Alvisi2010,Winkler2018,Rajani20..."
   ],
   "pdf": [
    "Kleiner2001              10.1016/s1462-0758(01)00033-4        paywalled-or-blocked   http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.2.7855 -> HTTP 502"
@@ -138,7 +133,7 @@
   "year": "2002",
   "note": "爆管的时间变化与趋势预测（领域背景）",
   "sentences": [
-   " \\documentclass [review,12pt,authoryear]{elsarticle}  \\usepackage {amsmath,amssymb}  \\usepackage {graphicx}  \\usepackage {booktabs}  \\usepackage {multirow}  \\usepackage [colorlinks=true,linkcolor=blue,citecolor=blue,urlcolor=blue]{hyperref}  \\usepackage {lineno}  \\modulolinenumbers [5]  \\emergencystretch =1.5em  \\journal {Water Research}  \\begin {document}  \\begin {frontmatter}  \\title {How much can a water utility learn about pipe ageing from its own failure records? Merged replacement histories, selective renewal, and the limits of inference}  \\author [a]{First Author \\corref {cor1}}  \\ead {"
+   "Statistical deterioration models are the quantitative backbone of pipe renewal planning: they translate administrative failure records into age-specific failure intensities, remaining-life estimates and renewal budgets \\citep {Kleiner2001,Kleiner2002,Scheidegger2015}, and a large methodological literature has grown around extracting them from administrative records \\citep {LeGat2000,Alvisi2010,Winkler2018,Rajani20..."
   ],
   "pdf": [
    "Kleiner2002              10.1061/(asce)1076-0342(2002)8:4(122) paywalled-or-blocked   http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.9.4126 -> HTTP 502"
@@ -152,7 +147,7 @@
   "year": "2012",
   "note": "爆管与温度协变量（领域背景）",
   "sentences": [
-   " \\documentclass [review,12pt,authoryear]{elsarticle}  \\usepackage {amsmath,amssymb}  \\usepackage {graphicx}  \\usepackage {booktabs}  \\usepackage {multirow}  \\usepackage [colorlinks=true,linkcolor=blue,citecolor=blue,urlcolor=blue]{hyperref}  \\usepackage {lineno}  \\modulolinenumbers [5]  \\emergencystretch =1.5em  \\journal {Water Research}  \\begin {document}  \\begin {frontmatter}  \\title {How much can a water utility learn about pipe ageing from its own failure records? Merged replacement histories, selective renewal, and the limits of inference}  \\author [a]{First Author \\corref {cor1}}  \\ead {"
+   "Statistical deterioration models are the quantitative backbone of pipe renewal planning: they translate administrative failure records into age-specific failure intensities, remaining-life estimates and renewal budgets \\citep {Kleiner2001,Kleiner2002,Scheidegger2015}, and a large methodological literature has grown around extracting them from administrative records \\citep {LeGat2000,Alvisi2010,Winkler2018,Rajani20..."
   ],
   "pdf": [
    "Rajani2012               10.1080/1573062x.2011.630093         paywalled-or-blocked   https://nrc-publications.canada.ca/fra/voir/objet/?id=7c91a647-aadd-40 -> HTTP 410"
@@ -166,7 +161,7 @@
   "year": "2010",
   "note": "两种概率型爆管模型的比较（领域背景）",
   "sentences": [
-   " \\documentclass [review,12pt,authoryear]{elsarticle}  \\usepackage {amsmath,amssymb}  \\usepackage {graphicx}  \\usepackage {booktabs}  \\usepackage {multirow}  \\usepackage [colorlinks=true,linkcolor=blue,citecolor=blue,urlcolor=blue]{hyperref}  \\usepackage {lineno}  \\modulolinenumbers [5]  \\emergencystretch =1.5em  \\journal {Water Research}  \\begin {document}  \\begin {frontmatter}  \\title {How much can a water utility learn about pipe ageing from its own failure records? Merged replacement histories, selective renewal, and the limits of inference}  \\author [a]{First Author \\corref {cor1}}  \\ead {"
+   "Statistical deterioration models are the quantitative backbone of pipe renewal planning: they translate administrative failure records into age-specific failure intensities, remaining-life estimates and renewal budgets \\citep {Kleiner2001,Kleiner2002,Scheidegger2015}, and a large methodological literature has grown around extracting them from administrative records \\citep {LeGat2000,Alvisi2010,Winkler2018,Rajani20..."
   ],
   "pdf": [
    "Alvisi2010               10.1080/10286600802224064            paywalled-or-blocked   http://hdl.handle.net/11392/530286 -> HTTP 403"
@@ -180,7 +175,7 @@
   "year": "2018",
   "note": "boosted decision trees 爆管建模（领域背景）",
   "sentences": [
-   " \\documentclass [review,12pt,authoryear]{elsarticle}  \\usepackage {amsmath,amssymb}  \\usepackage {graphicx}  \\usepackage {booktabs}  \\usepackage {multirow}  \\usepackage [colorlinks=true,linkcolor=blue,citecolor=blue,urlcolor=blue]{hyperref}  \\usepackage {lineno}  \\modulolinenumbers [5]  \\emergencystretch =1.5em  \\journal {Water Research}  \\begin {document}  \\begin {frontmatter}  \\title {How much can a water utility learn about pipe ageing from its own failure records? Merged replacement histories, selective renewal, and the limits of inference}  \\author [a]{First Author \\corref {cor1}}  \\ead {"
+   "Statistical deterioration models are the quantitative backbone of pipe renewal planning: they translate administrative failure records into age-specific failure intensities, remaining-life estimates and renewal budgets \\citep {Kleiner2001,Kleiner2002,Scheidegger2015}, and a large methodological literature has grown around extracting them from administrative records \\citep {LeGat2000,Alvisi2010,Winkler2018,Rajani20..."
   ],
   "pdf": [
    "Winkler2018              10.1080/15732479.2018.1443145        paywalled-or-blocked   http://resolver.tudelft.nl/uuid:fdc2b0f4-a106-4245-8600-35c3622d6f33 -> not a PDF (30784 bytes, b'<!DOCTYPE ht')"
@@ -194,7 +189,7 @@
   "year": "2018",
   "note": "在排水管道劣化建模中考虑已更换管（与本文同一问题、不同介质）",
   "sentences": [
-   "Physically, a replaced pipe disappears from the asset register of the old pipe, so part of the failure history is missing by construction  \\citep {Scheidegger2013,Ouellet2018}."
+   "Physically, a replaced pipe disappears from the asset register of the old pipe, so part of the failure history is missing by construction \\citep {Scheidegger2013,Ouellet2018}."
   ],
   "pdf": [
    "Ouellet2018              10.1080/1573062x.2018.1455883        paywalled-or-blocked   https://espace.inrs.ca/id/eprint/7734/ -> HTTP 403"
@@ -208,12 +203,11 @@
   "year": "1972",
   "note": "比例风险回归（方法背景）",
   "sentences": [
-   "For recurrent events with informative censoring, semiparametric estimators exist but require modelling the censoring mechanism  \\citep {Wang2001,Prentice1981, Aalen1978,Andersen1993,Cox1972,Lin1995}.",
-   " \\subsection {Estimation} We estimate $ \\phi $ by the age-stratified Mantel--Haenszel rate ratio  \\citep {Mantel1959} with one-year strata, using B-state versus N-state person-time and events, which is robust to the strong age dependence of the baseline intensity  \\citep {Cox1972}.",
-   "The deferred arm keeps observing pipes at exactly the ages where the two worlds diverge, and its breaks are counted against a randomised exposure, so selection is absent by construction  \\citep {Mantel1959,Cox1972}."
+   "For recurrent events with informative censoring, semiparametric estimators exist but require modelling the censoring mechanism \\citep {Wang2001,Prentice1981, Aalen1978,Andersen1993,Cox1972,Lin1995}.",
+   "We estimate $ \\phi $ by the age-stratified Mantel--Haenszel rate ratio \\citep {Mantel1959} with one-year strata, using B-state versus N-state person-time and events, which is robust to the strong age dependence of the baseline intensity \\citep {Cox1972}.",
+   "The deferred arm keeps observing pipes at exactly the ages where the two worlds diverge, and its breaks are counted against a randomised exposure, so selection is absent by construction \\citep {Mantel1959,Cox1972}."
   ],
   "pdf": [
-   "Cox1972                  blocked  HTTP 429 @api.semanticscholar.org",
    "Cox1972                  10.1111/j.2517-6161.1972.tb00899.x   paywalled-or-blocked   https://doi.org/10.1111/j.2517-6161.1972.tb00899.x -> HTTP 403"
   ]
  },
@@ -225,8 +219,8 @@
   "year": "1959",
   "note": "分层率比估计（本文 φ̂ 的估计量）",
   "sentences": [
-   " \\subsection {Estimation} We estimate $ \\phi $ by the age-stratified Mantel--Haenszel rate ratio  \\citep {Mantel1959} with one-year strata, using B-state versus N-state person-time and events, which is robust to the strong age dependence of the baseline intensity  \\citep {Cox1972}.",
-   "The deferred arm keeps observing pipes at exactly the ages where the two worlds diverge, and its breaks are counted against a randomised exposure, so selection is absent by construction  \\citep {Mantel1959,Cox1972}."
+   "We estimate $ \\phi $ by the age-stratified Mantel--Haenszel rate ratio \\citep {Mantel1959} with one-year strata, using B-state versus N-state person-time and events, which is robust to the strong age dependence of the baseline intensity \\citep {Cox1972}.",
+   "The deferred arm keeps observing pipes at exactly the ages where the two worlds diverge, and its breaks are counted against a randomised exposure, so selection is absent by construction \\citep {Mantel1959,Cox1972}."
   ],
   "pdf": [
    "Mantel1959               10.1093/jnci/22.4.719                paywalled-or-blocked   https://pubmed.ncbi.nlm.nih.gov/13655060 -> HTTP 203"
@@ -240,7 +234,7 @@
   "year": "1978",
   "note": "计数过程非参数推断（Nelson–Aalen 的理论基础）",
   "sentences": [
-   "For recurrent events with informative censoring, semiparametric estimators exist but require modelling the censoring mechanism  \\citep {Wang2001,Prentice1981, Aalen1978,Andersen1993,Cox1972,Lin1995}."
+   "For recurrent events with informative censoring, semiparametric estimators exist but require modelling the censoring mechanism \\citep {Wang2001,Prentice1981, Aalen1978,Andersen1993,Cox1972,Lin1995}."
   ],
   "pdf": [
    "Aalen1978                10.1214/aos/1176344247               paywalled-or-blocked   http://projecteuclid.org/euclid.aos/1176344247 -> not a PDF (1060 bytes, b'<html style=')"
@@ -254,7 +248,7 @@
   "year": "1981",
   "note": "多变量失效时间数据的回归分析（复发事件的 marginal/conditional 框架）",
   "sentences": [
-   "For recurrent events with informative censoring, semiparametric estimators exist but require modelling the censoring mechanism  \\citep {Wang2001,Prentice1981, Aalen1978,Andersen1993,Cox1972,Lin1995}."
+   "For recurrent events with informative censoring, semiparametric estimators exist but require modelling the censoring mechanism \\citep {Wang2001,Prentice1981, Aalen1978,Andersen1993,Cox1972,Lin1995}."
   ],
   "pdf": [
    "Prentice1981             10.1093/biomet/68.2.373              paywalled-or-blocked   https://doi.org/10.2307/2335582 -> HTTP 403"
@@ -268,10 +262,9 @@
   "year": "1993",
   "note": "基于计数过程的统计模型（方法背景）",
   "sentences": [
-   "For recurrent events with informative censoring, semiparametric estimators exist but require modelling the censoring mechanism  \\citep {Wang2001,Prentice1981, Aalen1978,Andersen1993,Cox1972,Lin1995}."
+   "For recurrent events with informative censoring, semiparametric estimators exist but require modelling the censoring mechanism \\citep {Wang2001,Prentice1981, Aalen1978,Andersen1993,Cox1972,Lin1995}."
   ],
   "pdf": [
-   "Andersen1993             blocked  HTTP 404 @api.semanticscholar.org",
    "Andersen1993             10.1007/978-1-4612-4348-9            paywalled-or-blocked   https://researchprofiles.ku.dk/da/publications/1424d7a0-74d0-11db-bee9 -> not a PDF (35224 bytes, b'\\n\\n\\n\\n<!DOCTYP')"
   ]
  },
@@ -283,8 +276,8 @@
   "year": "1983",
   "note": "相依竞争风险与边缘生存曲线不可识别（信息性删失的定性后果已知）",
   "sentences": [
-   "In competing-risks settings the marginal failure distribution is not identified without assumptions on the dependence between risks  \\citep {Tsiatis1975,Crowder1994}, and dependent censoring biases marginal survival estimators in ways that can only be bounded or sensitivity-analysed  \\citep {Slud1983,Zheng1995,Scharfstein1999}.",
-   "This is the operational content of non-identifiability in competing-risks and dependent-censoring settings  \\citep {Tsiatis1975,Crowder1994,Slud1983,Manski2003}: the window fixes one point of the cumulative-hazard curve, and the extrapolation beyond it is a choice of shape, not a measurement."
+   "In competing-risks settings the marginal failure distribution is not identified without assumptions on the dependence between risks \\citep {Tsiatis1975,Crowder1994}, and dependent censoring biases marginal survival estimators in ways that can only be bounded or sensitivity-analysed \\citep {Slud1983,Zheng1995,Scharfstein1999}.",
+   "This is the operational content of non-identifiability in competing-risks and dependent-censoring settings \\citep {Tsiatis1975,Crowder1994,Slud1983,Manski2003}: the window fixes one point of the cumulative-hazard curve, and the extrapolation beyond it is a choice of shape, not a measurement."
   ],
   "pdf": [
    "Slud1983                 10.1093/biomet/70.3.643              paywalled-or-blocked   https://doi.org/10.2307/2336500 -> HTTP 403"
@@ -298,7 +291,7 @@
   "year": "1995",
   "note": "基于 copula 的相依竞争风险边缘生存估计",
   "sentences": [
-   "In competing-risks settings the marginal failure distribution is not identified without assumptions on the dependence between risks  \\citep {Tsiatis1975,Crowder1994}, and dependent censoring biases marginal survival estimators in ways that can only be bounded or sensitivity-analysed  \\citep {Slud1983,Zheng1995,Scharfstein1999}."
+   "In competing-risks settings the marginal failure distribution is not identified without assumptions on the dependence between risks \\citep {Tsiatis1975,Crowder1994}, and dependent censoring biases marginal survival estimators in ways that can only be bounded or sensitivity-analysed \\citep {Slud1983,Zheng1995,Scharfstein1999}."
   ],
   "pdf": [
    "Zheng1995                10.1093/biomet/82.1.127              paywalled-or-blocked   https://doi.org/10.2307/2337633 -> HTTP 403"
@@ -312,12 +305,11 @@
   "year": "1975",
   "note": "竞争风险的不可识别性（部分识别的思想源头）",
   "sentences": [
-   "In competing-risks settings the marginal failure distribution is not identified without assumptions on the dependence between risks  \\citep {Tsiatis1975,Crowder1994}, and dependent censoring biases marginal survival estimators in ways that can only be bounded or sensitivity-analysed  \\citep {Slud1983,Zheng1995,Scharfstein1999}.",
-   "This is the operational content of non-identifiability in competing-risks and dependent-censoring settings  \\citep {Tsiatis1975,Crowder1994,Slud1983,Manski2003}: the window fixes one point of the cumulative-hazard curve, and the extrapolation beyond it is a choice of shape, not a measurement.",
-   "Claims about 60- or 90-year-old pipes made from these records are claims about a chosen shape, not measurements --- a point the competing-risks literature has made for half a century  \\citep {Tsiatis1975,Crowder1994} and that the water-domain corrected estimators  \\citep {Scheidegger2013,LeGat2013} implicitly inherit."
+   "In competing-risks settings the marginal failure distribution is not identified without assumptions on the dependence between risks \\citep {Tsiatis1975,Crowder1994}, and dependent censoring biases marginal survival estimators in ways that can only be bounded or sensitivity-analysed \\citep {Slud1983,Zheng1995,Scharfstein1999}.",
+   "This is the operational content of non-identifiability in competing-risks and dependent-censoring settings \\citep {Tsiatis1975,Crowder1994,Slud1983,Manski2003}: the window fixes one point of the cumulative-hazard curve, and the extrapolation beyond it is a choice of shape, not a measurement.",
+   "Claims about 60- or 90-year-old pipes made from these records are claims about a chosen shape, not measurements --- a point the competing-risks literature has made for half a century \\citep {Tsiatis1975,Crowder1994} and that the water-domain corrected estimators \\citep {Scheidegger2013,LeGat2013} implicitly inherit."
   ],
   "pdf": [
-   "Tsiatis1975              blocked  HTTP 404 @api.semanticscholar.org",
    "Tsiatis1975              10.1073/pnas.72.1.20                 paywalled-or-blocked   https://www.ncbi.nlm.nih.gov/pmc/articles/432231 -> HTTP 403"
   ]
  },
@@ -329,9 +321,9 @@
   "year": "1994",
   "note": "竞争风险中的可识别性危机",
   "sentences": [
-   "In competing-risks settings the marginal failure distribution is not identified without assumptions on the dependence between risks  \\citep {Tsiatis1975,Crowder1994}, and dependent censoring biases marginal survival estimators in ways that can only be bounded or sensitivity-analysed  \\citep {Slud1983,Zheng1995,Scharfstein1999}.",
-   "This is the operational content of non-identifiability in competing-risks and dependent-censoring settings  \\citep {Tsiatis1975,Crowder1994,Slud1983,Manski2003}: the window fixes one point of the cumulative-hazard curve, and the extrapolation beyond it is a choice of shape, not a measurement.",
-   "Claims about 60- or 90-year-old pipes made from these records are claims about a chosen shape, not measurements --- a point the competing-risks literature has made for half a century  \\citep {Tsiatis1975,Crowder1994} and that the water-domain corrected estimators  \\citep {Scheidegger2013,LeGat2013} implicitly inherit."
+   "In competing-risks settings the marginal failure distribution is not identified without assumptions on the dependence between risks \\citep {Tsiatis1975,Crowder1994}, and dependent censoring biases marginal survival estimators in ways that can only be bounded or sensitivity-analysed \\citep {Slud1983,Zheng1995,Scharfstein1999}.",
+   "This is the operational content of non-identifiability in competing-risks and dependent-censoring settings \\citep {Tsiatis1975,Crowder1994,Slud1983,Manski2003}: the window fixes one point of the cumulative-hazard curve, and the extrapolation beyond it is a choice of shape, not a measurement.",
+   "Claims about 60- or 90-year-old pipes made from these records are claims about a chosen shape, not measurements --- a point the competing-risks literature has made for half a century \\citep {Tsiatis1975,Crowder1994} and that the water-domain corrected estimators \\citep {Scheidegger2013,LeGat2013} implicitly inherit."
   ],
   "pdf": [
    "Crowder1994              10.2307/1403768                      paywalled-or-blocked   https://doi.org/10.2307/1403768 -> not a PDF (3038 bytes, b'<!DOCTYPE ht')"
@@ -345,7 +337,7 @@
   "year": "1999",
   "note": "非可忽略退出的半参数非响应模型（敏感性分析范式）",
   "sentences": [
-   "In competing-risks settings the marginal failure distribution is not identified without assumptions on the dependence between risks  \\citep {Tsiatis1975,Crowder1994}, and dependent censoring biases marginal survival estimators in ways that can only be bounded or sensitivity-analysed  \\citep {Slud1983,Zheng1995,Scharfstein1999}."
+   "In competing-risks settings the marginal failure distribution is not identified without assumptions on the dependence between risks \\citep {Tsiatis1975,Crowder1994}, and dependent censoring biases marginal survival estimators in ways that can only be bounded or sensitivity-analysed \\citep {Slud1983,Zheng1995,Scharfstein1999}."
   ],
   "pdf": [
    "Scharfstein1999          10.1080/01621459.1999.10473862       paywalled-or-blocked   https://doi.org/10.1080/01621459.1999.10473862 -> HTTP 403"
@@ -359,10 +351,9 @@
   "year": "2001",
   "note": "带信息性删失的复发事件数据分析",
   "sentences": [
-   "For recurrent events with informative censoring, semiparametric estimators exist but require modelling the censoring mechanism  \\citep {Wang2001,Prentice1981, Aalen1978,Andersen1993,Cox1972,Lin1995}."
+   "For recurrent events with informative censoring, semiparametric estimators exist but require modelling the censoring mechanism \\citep {Wang2001,Prentice1981, Aalen1978,Andersen1993,Cox1972,Lin1995}."
   ],
   "pdf": [
-   "Wang2001                 blocked  HTTP 429 @api.semanticscholar.org",
    "Wang2001                 10.1198/016214501753209031           paywalled-or-blocked   https://www.ncbi.nlm.nih.gov/pmc/articles/3818252 -> HTTP 403"
   ]
  },
@@ -374,10 +365,9 @@
   "year": "1995",
   "note": "加性—乘性危险模型的半参数分析",
   "sentences": [
-   "For recurrent events with informative censoring, semiparametric estimators exist but require modelling the censoring mechanism  \\citep {Wang2001,Prentice1981, Aalen1978,Andersen1993,Cox1972,Lin1995}."
+   "For recurrent events with informative censoring, semiparametric estimators exist but require modelling the censoring mechanism \\citep {Wang2001,Prentice1981, Aalen1978,Andersen1993,Cox1972,Lin1995}."
   ],
   "pdf": [
-   "Lin1995                  blocked  HTTP 429 @api.semanticscholar.org",
    "Lin1995                  10.1214/aos/1176324320               paywalled-or-blocked   http://projecteuclid.org/euclid.aos/1176324320 -> not a PDF (1049 bytes, b'<html style=')"
   ]
  },
@@ -389,12 +379,11 @@
   "year": "2014",
   "note": "缺失非随机时完整病例分析的效率改进；明确用于审计既往研究的偏差量级",
   "sentences": [
-   "Partial identification provides the natural language for the resulting limits: some quantities are bounded, not point-estimated  \\citep {Manski2003,Tamer2010}, and quantifying such bias bounds is precisely how one should audit studies that use administratively censored records  \\citep {Bartlett2014}.",
-   "Bounded-but-signed is often decision-sufficient, and it is the correct language for records whose censoring is informative  \\citep {Manski2003,Bartlett2014}.",
-   " \\subsection {Relation to prior work} The corrected-estimator route of  \\citet {Scheidegger2013} and  \\citet {LeGat2013} and the audit route of  \\citet {Bartlett2014} are complementary to what we do here: we neither propose a new estimator nor a new correction, but (a) document a record-linkage defect that any of those methods would silently absorb, (b) give the horizon construct  \\eqref {eq:SI}--(P3) that makes ``how far can we see'' a number rather than a slogan, and (c) show that the ambiguity a horizon implies is resolvable by a randomised deferral of exactly the kind that reliability theo"
+   "Partial identification provides the natural language for the resulting limits: some quantities are bounded, not point-estimated \\citep {Manski2003,Tamer2010}, and quantifying such bias bounds is precisely how one should audit studies that use administratively censored records \\citep {Bartlett2014}.",
+   "Bounded-but-signed is often decision-sufficient, and it is the correct language for records whose censoring is informative \\citep {Manski2003,Bartlett2014}.",
+   "The corrected-estimator route of \\citet {Scheidegger2013} and \\citet {LeGat2013} and the audit route of \\citet {Bartlett2014} are complementary to what we do here: we neither propose a new estimator nor a new correction, but (a) document a record-linkage defect that any of those methods would silently absorb, (b) give the horizon construct \\eqref {eq:SI}--(P3) that makes ``how far can we see'' a number rather than..."
   ],
   "pdf": [
-   "Bartlett2014             blocked  HTTP 429 @api.semanticscholar.org",
    "Bartlett2014             10.1093/biostatistics/kxu023         paywalled-or-blocked   https://research-information.bris.ac.uk/en/publications/5f3f2a07-bcab- -> not a PDF (66035 bytes, b'\\n\\n\\n\\n<!DOCTYP')"
   ]
  },
@@ -406,12 +395,11 @@
   "year": "2003",
   "note": "部分识别（bounding）范式",
   "sentences": [
-   "Partial identification provides the natural language for the resulting limits: some quantities are bounded, not point-estimated  \\citep {Manski2003,Tamer2010}, and quantifying such bias bounds is precisely how one should audit studies that use administratively censored records  \\citep {Bartlett2014}.",
-   "This is the operational content of non-identifiability in competing-risks and dependent-censoring settings  \\citep {Tsiatis1975,Crowder1994,Slud1983,Manski2003}: the window fixes one point of the cumulative-hazard curve, and the extrapolation beyond it is a choice of shape, not a measurement.",
-   "Bounded-but-signed is often decision-sufficient, and it is the correct language for records whose censoring is informative  \\citep {Manski2003,Bartlett2014}."
+   "Partial identification provides the natural language for the resulting limits: some quantities are bounded, not point-estimated \\citep {Manski2003,Tamer2010}, and quantifying such bias bounds is precisely how one should audit studies that use administratively censored records \\citep {Bartlett2014}.",
+   "This is the operational content of non-identifiability in competing-risks and dependent-censoring settings \\citep {Tsiatis1975,Crowder1994,Slud1983,Manski2003}: the window fixes one point of the cumulative-hazard curve, and the extrapolation beyond it is a choice of shape, not a measurement.",
+   "Bounded-but-signed is often decision-sufficient, and it is the correct language for records whose censoring is informative \\citep {Manski2003,Bartlett2014}."
   ],
   "pdf": [
-   "Manski2003               blocked  HTTP 429 @api.semanticscholar.org",
    "Manski2003               10.1007/b97478                       paywalled-or-blocked   http://hdl.handle.net/2078/ebook:30570 -> HTTP 409"
   ]
  },
@@ -423,10 +411,9 @@
   "year": "2010",
   "note": "计量经济学中的部分识别综述",
   "sentences": [
-   "Partial identification provides the natural language for the resulting limits: some quantities are bounded, not point-estimated  \\citep {Manski2003,Tamer2010}, and quantifying such bias bounds is precisely how one should audit studies that use administratively censored records  \\citep {Bartlett2014}."
+   "Partial identification provides the natural language for the resulting limits: some quantities are bounded, not point-estimated \\citep {Manski2003,Tamer2010}, and quantifying such bias bounds is precisely how one should audit studies that use administratively censored records \\citep {Bartlett2014}."
   ],
   "pdf": [
-   "Tamer2010                blocked  ReadTimeout",
    "Tamer2010                10.1146/annurev.economics.050708.143401 paywalled-or-blocked   http://www.annualreviews.org/doi/abs/10.1146/annurev.economics.050708. -> HTTP 403"
   ]
  },
@@ -438,11 +425,10 @@
   "year": "2025",
   "note": "Performative prediction（政策—数据反馈回路已被命名）",
   "sentences": [
-   "When the extrapolation is wrong, renewal programmes inherit the error; and because renewal itself shapes the records, the error can be self-reinforcing, a mechanism now studied formally as performative feedback in machine learning systems  \\citep {Hardt2025}."
+   "When the extrapolation is wrong, renewal programmes inherit the error; and because renewal itself shapes the records, the error can be self-reinforcing, a mechanism now studied formally as performative feedback in machine learning systems \\citep {Hardt2025}."
   ],
   "pdf": [
-   "Hardt2025                blocked  HTTP 404 @api.semanticscholar.org",
-   "Hardt2025                10.1214/25-sts986                    paywalled-or-blocked   https://doi.org/10.1214/25-sts986 -> not a PDF (1051 bytes, b'<html style=')"
+   "Hardt2025              OK         direct: 593682 B  https://arxiv.org/pdf/2310.16608"
   ]
  },
  {
@@ -453,9 +439,9 @@
   "year": "2020",
   "note": "删失寿命学习：贝叶斯年龄更换（单机视角的近邻工作）",
   "sentences": [
-   "Related ``learning under censoring'' issues arise for single machines, where optimal age-replacement policies deliberately remove the units whose failures would be most informative  \\citep {BarlowProschan1965,Drent2020}.",
-   "Unlike the learning-versus-downtime trade-offs studied for single machines  \\citep {Drent2020,BarlowProschan1965}, the deferred asset here is one of 13,921, and the randomised arm is a tiny fraction of the renewal programme; the design's cost is $m$ additional breaks spread over a year, not a change of policy.",
-   " \\subsection {Relation to prior work} The corrected-estimator route of  \\citet {Scheidegger2013} and  \\citet {LeGat2013} and the audit route of  \\citet {Bartlett2014} are complementary to what we do here: we neither propose a new estimator nor a new correction, but (a) document a record-linkage defect that any of those methods would silently absorb, (b) give the horizon construct  \\eqref {eq:SI}--(P3) that makes ``how far can we see'' a number rather than a slogan, and (c) show that the ambiguity a horizon implies is resolvable by a randomised deferral of exactly the kind that reliability theo"
+   "Related ``learning under censoring'' issues arise for single machines, where optimal age-replacement policies deliberately remove the units whose failures would be most informative \\citep {BarlowProschan1965,Drent2020}.",
+   "Unlike the learning-versus-downtime trade-offs studied for single machines \\citep {Drent2020,BarlowProschan1965}, the deferred asset here is one of 13,921, and the randomised arm is a tiny fraction of the renewal programme; the design's cost is $m$ additional breaks spread over a year, not a change of policy.",
+   "The corrected-estimator route of \\citet {Scheidegger2013} and \\citet {LeGat2013} and the audit route of \\citet {Bartlett2014} are complementary to what we do here: we neither propose a new estimator nor a new correction, but (a) document a record-linkage defect that any of those methods would silently absorb, (b) give the horizon construct \\eqref {eq:SI}--(P3) that makes ``how far can we see'' a number rather than..."
   ],
   "pdf": [
    "Drent2020                10.1016/j.orl.2020.10.005            paywalled-or-blocked   https://research.tue.nl/nl/publications/5121c525-1b97-4e69-ab4b-4ab053 -> not a PDF (49125 bytes, b'\\n\\n\\n\\n<!DOCTYP')"
@@ -469,12 +455,11 @@
   "year": "1996",
   "note": "可靠性数学理论（年龄更换教科书公式）",
   "sentences": [
-   "Related ``learning under censoring'' issues arise for single machines, where optimal age-replacement policies deliberately remove the units whose failures would be most informative  \\citep {BarlowProschan1965,Drent2020}.",
-   "Unlike the learning-versus-downtime trade-offs studied for single machines  \\citep {Drent2020,BarlowProschan1965}, the deferred asset here is one of 13,921, and the randomised arm is a tiny fraction of the renewal programme; the design's cost is $m$ additional breaks spread over a year, not a change of policy.",
-   " \\subsection {Relation to prior work} The corrected-estimator route of  \\citet {Scheidegger2013} and  \\citet {LeGat2013} and the audit route of  \\citet {Bartlett2014} are complementary to what we do here: we neither propose a new estimator nor a new correction, but (a) document a record-linkage defect that any of those methods would silently absorb, (b) give the horizon construct  \\eqref {eq:SI}--(P3) that makes ``how far can we see'' a number rather than a slogan, and (c) show that the ambiguity a horizon implies is resolvable by a randomised deferral of exactly the kind that reliability theo"
+   "Related ``learning under censoring'' issues arise for single machines, where optimal age-replacement policies deliberately remove the units whose failures would be most informative \\citep {BarlowProschan1965,Drent2020}.",
+   "Unlike the learning-versus-downtime trade-offs studied for single machines \\citep {Drent2020,BarlowProschan1965}, the deferred asset here is one of 13,921, and the randomised arm is a tiny fraction of the renewal programme; the design's cost is $m$ additional breaks spread over a year, not a change of policy.",
+   "The corrected-estimator route of \\citet {Scheidegger2013} and \\citet {LeGat2013} and the audit route of \\citet {Bartlett2014} are complementary to what we do here: we neither propose a new estimator nor a new correction, but (a) document a record-linkage defect that any of those methods would silently absorb, (b) give the horizon construct \\eqref {eq:SI}--(P3) that makes ``how far can we see'' a number rather than..."
   ],
   "pdf": [
-   "BarlowProschan1965       blocked  HTTP 404 @api.semanticscholar.org",
    "BarlowProschan1965       10.1137/1.9781611971194              paywalled-or-blocked   http://bvbr.bib-bvb.de:8991/F?func=service&amp;doc_library=BVB01&amp;l -> not a PDF (1581 bytes, b'<html> \\n<bod')"
   ]
  }

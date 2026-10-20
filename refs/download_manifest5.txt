@@ -1,0 +1,37 @@
+Scheidegger2013        blocked    arXiv: arxiv query failed: HTTPError
+Scheidegger2015        blocked    arXiv: arxiv query failed: HTTPError
+LeGat2013              blocked    arXiv: arxiv query failed: HTTPError
+LeGat2000              blocked    arXiv: arxiv query failed: HTTPError
+Renaud2012             blocked    arXiv: arxiv query failed: HTTPError
+Renaud2014             blocked    arXiv: arxiv query failed: HTTPError
+LeGat2013b             blocked    arXiv: arxiv query failed: HTTPError
+Kleiner2001            blocked    arXiv: arxiv query failed: HTTPError
+Kleiner2002            blocked    arXiv: arxiv query failed: HTTPError
+Rajani2012             blocked    arXiv: arxiv query failed: HTTPError
+Alvisi2010             blocked    arXiv: arxiv query failed: HTTPError
+Winkler2018            blocked    arXiv: arxiv query failed: TimeoutError
+Ouellet2018            blocked    arXiv: arxiv query failed: HTTPError
+Cox1972                blocked    arXiv: arxiv query failed: TimeoutError
+Mantel1959             blocked    arXiv: arxiv query failed: HTTPError
+Aalen1978              blocked    direct: not a PDF (ct=text/html, 1159 B)
+Aalen1978              blocked    arXiv: arxiv query failed: HTTPError
+Nelson1969             blocked    arXiv: arxiv query failed: HTTPError
+Prentice1981           blocked    arXiv: arxiv query failed: HTTPError
+Andersen1993           blocked    arXiv: arxiv query failed: HTTPError
+Kalbfleisch2002        blocked    arXiv: arxiv query failed: HTTPError
+KleinMoeschberger2003  blocked    arXiv: arxiv query failed: HTTPError
+Slud1983               blocked    arXiv: arxiv query failed: HTTPError
+Zheng1995              blocked    arXiv: arxiv query failed: HTTPError
+Tsiatis1975            blocked    direct: HTTPError: HTTP Error 403: Forbidden
+Tsiatis1975            blocked    arXiv: arxiv query failed: HTTPError
+Crowder1994            blocked    arXiv: arxiv query failed: HTTPError
+Scharfstein1999        blocked    arXiv: arxiv query failed: HTTPError
+Wang2001               blocked    arXiv: arxiv query failed: HTTPError
+Lin1995                blocked    direct: not a PDF (ct=text/html, 1166 B)
+Lin1995                blocked    arXiv: arxiv query failed: HTTPError
+Bartlett2014           blocked    arXiv: arxiv query failed: HTTPError
+Manski2003             blocked    arXiv: arxiv query failed: HTTPError
+Tamer2010              blocked    arXiv: arxiv query failed: TimeoutError
+Hardt2025              OK         direct: 593682 B  https://arxiv.org/pdf/2310.16608
+Drent2020              blocked    arXiv: arxiv query failed: HTTPError
+BarlowProschan1965     blocked    arXiv: arxiv query failed: HTTPError
