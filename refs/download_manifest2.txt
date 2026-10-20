@@ -1,0 +1,35 @@
+citekey                  doi                                  status                 detail
+Scheidegger2013          10.1016/j.watres.2013.04.017         paywalled-or-blocked   https://www.dora.lib4ri.ch/eawag/item/eawag:7286 -> SSLError: HTTPSConnectionPool(host='www.dora.lib4ri.ch', port=443): Max retries exceeded with url: /
+Scheidegger2015          10.1016/j.watres.2015.06.027         paywalled-or-blocked   https://www.dora.lib4ri.ch/eawag/item/eawag:8185 -> SSLError: HTTPSConnectionPool(host='www.dora.lib4ri.ch', port=443): Max retries exceeded with url: /
+LeGat2013                10.1080/1573062x.2013.783088         paywalled-or-blocked   https://hal.inrae.fr/hal-02600156 -> not a PDF (12607 bytes, b'<!doctype ht')
+LeGat2000                10.1016/s1462-0758(00)00057-1        paywalled-or-blocked   https://irsteadoc.irstea.fr/cemoa/PUB00008964 -> SSLError: HTTPSConnectionPool(host='irsteadoc.irstea.fr', port=443): Max retries exceeded with url: 
+Renaud2012               10.2166/ws.2012.040                  paywalled-or-blocked   https://hal.inrae.fr/hal-02597881 -> not a PDF (12607 bytes, b'<!doctype ht')
+Renaud2014               10.2166/wpt.2014.032                 paywalled-or-blocked   https://irsteadoc.irstea.fr/cemoa/PUB00042134 -> SSLError: HTTPSConnectionPool(host='irsteadoc.irstea.fr', port=443): Max retries exceeded with url: 
+LeGat2013b               10.2166/ws.2013.089                  paywalled-or-blocked   https://irsteadoc.irstea.fr/cemoa/PUB00039690 -> SSLError: HTTPSConnectionPool(host='irsteadoc.irstea.fr', port=443): Max retries exceeded with url: 
+Kleiner2001              10.1016/s1462-0758(01)00033-4        paywalled-or-blocked   http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.2.7855 -> HTTP 502
+Kleiner2002              10.1061/(asce)1076-0342(2002)8:4(122) paywalled-or-blocked   http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.9.4126 -> HTTP 502
+Rajani2012               10.1080/1573062x.2011.630093         paywalled-or-blocked   https://nrc-publications.canada.ca/fra/voir/objet/?id=7c91a647-aadd-40 -> HTTP 410
+Alvisi2010               10.1080/10286600802224064            paywalled-or-blocked   http://hdl.handle.net/11392/530286 -> HTTP 403
+Winkler2018              10.1080/15732479.2018.1443145        paywalled-or-blocked   http://resolver.tudelft.nl/uuid:fdc2b0f4-a106-4245-8600-35c3622d6f33 -> not a PDF (30784 bytes, b'<!DOCTYPE ht')
+Ouellet2018              10.1080/1573062x.2018.1455883        paywalled-or-blocked   https://espace.inrs.ca/id/eprint/7734/ -> HTTP 403
+Cox1972                  10.1111/j.2517-6161.1972.tb00899.x   paywalled-or-blocked   https://doi.org/10.1111/j.2517-6161.1972.tb00899.x -> HTTP 403
+Mantel1959               10.1093/jnci/22.4.719                paywalled-or-blocked   https://pubmed.ncbi.nlm.nih.gov/13655060 -> HTTP 203
+Aalen1978                10.1214/aos/1176344247               paywalled-or-blocked   http://projecteuclid.org/euclid.aos/1176344247 -> not a PDF (1060 bytes, b'<html style=')
+Nelson1969               10.1080/00224065.1969.11980344       paywalled-or-blocked   https://doi.org/10.1080/00224065.1969.11980344 -> HTTP 403
+Prentice1981             10.1093/biomet/68.2.373              paywalled-or-blocked   https://doi.org/10.2307/2335582 -> HTTP 403
+Andersen1993             10.1007/978-1-4612-4348-9            paywalled-or-blocked   https://researchprofiles.ku.dk/da/publications/1424d7a0-74d0-11db-bee9 -> not a PDF (35224 bytes, b'\n\n\n\n<!DOCTYP')
+Kalbfleisch2002          10.1002/9781118032985                paywalled-or-blocked   http://cds.cern.ch/record/1437348 -> not a PDF (7595 bytes, b'<!doctype ht')
+KleinMoeschberger2003    10.1007/b97377                       paywalled-or-blocked   http://hdl.handle.net/2078/ebook:30525 -> HTTP 409
+Slud1983                 10.1093/biomet/70.3.643              paywalled-or-blocked   https://doi.org/10.2307/2336500 -> HTTP 403
+Zheng1995                10.1093/biomet/82.1.127              paywalled-or-blocked   https://doi.org/10.2307/2337633 -> HTTP 403
+Tsiatis1975              10.1073/pnas.72.1.20                 paywalled-or-blocked   https://www.ncbi.nlm.nih.gov/pmc/articles/432231 -> HTTP 403
+Crowder1994              10.2307/1403768                      paywalled-or-blocked   https://doi.org/10.2307/1403768 -> not a PDF (3038 bytes, b'<!DOCTYPE ht')
+Scharfstein1999          10.1080/01621459.1999.10473862       paywalled-or-blocked   https://doi.org/10.1080/01621459.1999.10473862 -> HTTP 403
+Wang2001                 10.1198/016214501753209031           paywalled-or-blocked   https://www.ncbi.nlm.nih.gov/pmc/articles/3818252 -> HTTP 403
+Lin1995                  10.1214/aos/1176324320               paywalled-or-blocked   http://projecteuclid.org/euclid.aos/1176324320 -> not a PDF (1049 bytes, b'<html style=')
+Bartlett2014             10.1093/biostatistics/kxu023         paywalled-or-blocked   https://research-information.bris.ac.uk/en/publications/5f3f2a07-bcab- -> not a PDF (66035 bytes, b'\n\n\n\n<!DOCTYP')
+Manski2003               10.1007/b97478                       paywalled-or-blocked   http://hdl.handle.net/2078/ebook:30570 -> HTTP 409
+Tamer2010                10.1146/annurev.economics.050708.143401 paywalled-or-blocked   http://www.annualreviews.org/doi/abs/10.1146/annurev.economics.050708. -> HTTP 403
+Hardt2025                10.1214/25-sts986                    paywalled-or-blocked   https://doi.org/10.1214/25-sts986 -> not a PDF (1051 bytes, b'<html style=')
+Drent2020                10.1016/j.orl.2020.10.005            paywalled-or-blocked   https://research.tue.nl/nl/publications/5121c525-1b97-4e69-ab4b-4ab053 -> not a PDF (49125 bytes, b'\n\n\n\n<!DOCTYP')
+BarlowProschan1965       10.1137/1.9781611971194              paywalled-or-blocked   http://bvbr.bib-bvb.de:8991/F?func=service&amp;doc_library=BVB01&amp;l -> not a PDF (1581 bytes, b'<html> \n<bod')

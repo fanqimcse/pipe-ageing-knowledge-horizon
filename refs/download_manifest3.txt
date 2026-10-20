@@ -1,0 +1,10 @@
+Tsiatis1975          blocked    HTTP 403, 5774 bytes, type=b'<!DOCTYP'
+Aalen1978            blocked    HTTP 200, 1049 bytes, type=b'<html st'
+Lin1995              blocked    HTTP 200, 1049 bytes, type=b'<html st'
+Scheidegger2013      blocked    SSLError: HTTPSConnectionPool(host='www.dora.lib4ri.ch', port=443): Max retries 
+Hardt2025            blocked    HTTP 200, 1055 bytes, type=b'<html st'
+Bartlett2014         blocked    HTTP 403, 5835 bytes, type=b'<!DOCTYP'
+Wang2001             blocked    HTTP 403, 5863 bytes, type=b'<!DOCTYP'
+Crowder1994          blocked    HTTP 200, 3038 bytes, type=b'<!DOCTYP'
+Drent2020            blocked    HTTP 404, 4838 bytes, type=b'<html xm'
+Scheidegger2015      blocked    ProxyError: HTTPConnectionPool(host='127.0.0.1', port=54989): Max retries exceeded

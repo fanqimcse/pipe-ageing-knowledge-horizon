@@ -1,0 +1,35 @@
+citekey                  doi                                pdf_status       detail
+Scheidegger2013          10.1016/j.watres.2013.04.017       download-fail    URLError | <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)>
+Scheidegger2015          10.1016/j.watres.2015.06.027       download-fail    URLError | <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)>
+LeGat2013                10.1080/1573062x.2013.783088       no-oa            no open-access location recorded
+LeGat2000                10.1016/s1462-0758(00)00057-1      no-oa            no open-access location recorded
+Renaud2012               10.2166/ws.2012.040                no-oa            no open-access location recorded
+Renaud2014               10.2166/wpt.2014.032               no-oa            no open-access location recorded
+LeGat2013b               10.2166/ws.2013.089                no-oa            no open-access location recorded
+Kleiner2001              10.1016/s1462-0758(01)00033-4      download-fail    HTTPError | HTTP Error 410: Gone
+Kleiner2002              10.1061/(asce)1076-0342(2002)8:4(122) download-fail    HTTPError | HTTP Error 410: Gone
+Rajani2012               10.1080/1573062x.2011.630093       download-fail    HTTPError | HTTP Error 410: Gone
+Alvisi2010               10.1080/10286600802224064          no-oa            no open-access location recorded
+Winkler2018              10.1080/15732479.2018.1443145      download-fail    HTTPError | HTTP Error 403: Forbidden
+Ouellet2018              10.1080/1573062x.2018.1455883      no-oa            no open-access location recorded
+Cox1972                  10.1111/j.2517-6161.1972.tb00899.x no-oa            no open-access location recorded
+Mantel1959               10.1093/jnci/22.4.719              no-oa            no open-access location recorded
+Aalen1978                10.1214/aos/1176344247             not-pdf          downloaded 1159 bytes, not a PDF
+Nelson1969               10.1080/00224065.1969.11980344     no-oa            no open-access location recorded
+Prentice1981             10.1093/biomet/68.2.373            no-oa            no open-access location recorded
+Andersen1993             10.1007/978-1-4612-4348-9          no-oa            no open-access location recorded
+Kalbfleisch2002          10.1002/9781118032985              no-oa            no open-access location recorded
+KleinMoeschberger2003    10.1007/b97377                     no-oa            no open-access location recorded
+Slud1983                 10.1093/biomet/70.3.643            no-oa            no open-access location recorded
+Zheng1995                10.1093/biomet/82.1.127            no-oa            no open-access location recorded
+Tsiatis1975              10.1073/pnas.72.1.20               not-pdf          downloaded 92606 bytes, not a PDF
+Crowder1994              10.2307/1403768                    no-oa            no open-access location recorded
+Scharfstein1999          10.1080/01621459.1999.10473862     no-oa            no open-access location recorded
+Wang2001                 10.1198/016214501753209031         not-pdf          downloaded 208107 bytes, not a PDF
+Lin1995                  10.1214/aos/1176324320             not-pdf          downloaded 1159 bytes, not a PDF
+Bartlett2014             10.1093/biostatistics/kxu023       download-fail    HTTPError | HTTP Error 403: Forbidden
+Manski2003               10.1007/b97478                     no-oa            no open-access location recorded
+Tamer2010                10.1146/annurev.economics.050708.143401 download-fail    HTTPError | HTTP Error 403: Forbidden
+Hardt2025                10.1214/25-sts986                  no-oa            no open-access location recorded
+Drent2020                10.1016/j.orl.2020.10.005          download-fail    HTTPError | HTTP Error 403: Forbidden
+BarlowProschan1965       10.1137/1.9781611971194            no-oa            no open-access location recorded

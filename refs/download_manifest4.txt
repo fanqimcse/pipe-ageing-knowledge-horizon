@@ -1,0 +1,34 @@
+Scheidegger2013          blocked  SSLError
+Scheidegger2015          blocked  SSLError
+LeGat2013                blocked  HTTP 429 @api.semanticscholar.org
+LeGat2000                blocked  HTTP 429 @api.semanticscholar.org
+Renaud2012               blocked  HTTP 429 @api.semanticscholar.org
+Renaud2014               blocked  
+LeGat2013b               blocked  
+Kleiner2001              blocked  
+Kleiner2002              blocked  
+Rajani2012               blocked  
+Alvisi2010               blocked  
+Winkler2018              blocked  
+Ouellet2018              blocked  
+Cox1972                  blocked  HTTP 429 @api.semanticscholar.org
+Mantel1959               blocked  
+Aalen1978                blocked  
+Nelson1969               blocked  
+Prentice1981             blocked  
+Andersen1993             blocked  HTTP 404 @api.semanticscholar.org
+Kalbfleisch2002          blocked  HTTP 429 @api.semanticscholar.org
+KleinMoeschberger2003    blocked  HTTP 404 @api.semanticscholar.org
+Slud1983                 blocked  
+Zheng1995                blocked  
+Tsiatis1975              blocked  HTTP 404 @api.semanticscholar.org
+Crowder1994              blocked  
+Scharfstein1999          blocked  
+Wang2001                 blocked  HTTP 429 @api.semanticscholar.org
+Lin1995                  blocked  HTTP 429 @api.semanticscholar.org
+Bartlett2014             blocked  HTTP 429 @api.semanticscholar.org
+Manski2003               blocked  HTTP 429 @api.semanticscholar.org
+Tamer2010                blocked  ReadTimeout
+Hardt2025                blocked  HTTP 404 @api.semanticscholar.org
+Drent2020                blocked  
+BarlowProschan1965       blocked  HTTP 404 @api.semanticscholar.org

@@ -1,0 +1,206 @@
+[
+ {
+  "key": "Scheidegger2013",
+  "doi": "10.1016/j.watres.2013.04.017",
+  "status": "download-fail",
+  "detail": "URLError | <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)>"
+ },
+ {
+  "key": "Scheidegger2015",
+  "doi": "10.1016/j.watres.2015.06.027",
+  "status": "download-fail",
+  "detail": "URLError | <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)>"
+ },
+ {
+  "key": "LeGat2013",
+  "doi": "10.1080/1573062x.2013.783088",
+  "status": "no-oa",
+  "detail": "no open-access location recorded"
+ },
+ {
+  "key": "LeGat2000",
+  "doi": "10.1016/s1462-0758(00)00057-1",
+  "status": "no-oa",
+  "detail": "no open-access location recorded"
+ },
+ {
+  "key": "Renaud2012",
+  "doi": "10.2166/ws.2012.040",
+  "status": "no-oa",
+  "detail": "no open-access location recorded"
+ },
+ {
+  "key": "Renaud2014",
+  "doi": "10.2166/wpt.2014.032",
+  "status": "no-oa",
+  "detail": "no open-access location recorded"
+ },
+ {
+  "key": "LeGat2013b",
+  "doi": "10.2166/ws.2013.089",
+  "status": "no-oa",
+  "detail": "no open-access location recorded"
+ },
+ {
+  "key": "Kleiner2001",
+  "doi": "10.1016/s1462-0758(01)00033-4",
+  "status": "download-fail",
+  "detail": "HTTPError | HTTP Error 410: Gone"
+ },
+ {
+  "key": "Kleiner2002",
+  "doi": "10.1061/(asce)1076-0342(2002)8:4(122)",
+  "status": "download-fail",
+  "detail": "HTTPError | HTTP Error 410: Gone"
+ },
+ {
+  "key": "Rajani2012",
+  "doi": "10.1080/1573062x.2011.630093",
+  "status": "download-fail",
+  "detail": "HTTPError | HTTP Error 410: Gone"
+ },
+ {
+  "key": "Alvisi2010",
+  "doi": "10.1080/10286600802224064",
+  "status": "no-oa",
+  "detail": "no open-access location recorded"
+ },
+ {
+  "key": "Winkler2018",
+  "doi": "10.1080/15732479.2018.1443145",
+  "status": "download-fail",
+  "detail": "HTTPError | HTTP Error 403: Forbidden"
+ },
+ {
+  "key": "Ouellet2018",
+  "doi": "10.1080/1573062x.2018.1455883",
+  "status": "no-oa",
+  "detail": "no open-access location recorded"
+ },
+ {
+  "key": "Cox1972",
+  "doi": "10.1111/j.2517-6161.1972.tb00899.x",
+  "status": "no-oa",
+  "detail": "no open-access location recorded"
+ },
+ {
+  "key": "Mantel1959",
+  "doi": "10.1093/jnci/22.4.719",
+  "status": "no-oa",
+  "detail": "no open-access location recorded"
+ },
+ {
+  "key": "Aalen1978",
+  "doi": "10.1214/aos/1176344247",
+  "status": "not-pdf",
+  "detail": "downloaded 1159 bytes, not a PDF"
+ },
+ {
+  "key": "Nelson1969",
+  "doi": "10.1080/00224065.1969.11980344",
+  "status": "no-oa",
+  "detail": "no open-access location recorded"
+ },
+ {
+  "key": "Prentice1981",
+  "doi": "10.1093/biomet/68.2.373",
+  "status": "no-oa",
+  "detail": "no open-access location recorded"
+ },
+ {
+  "key": "Andersen1993",
+  "doi": "10.1007/978-1-4612-4348-9",
+  "status": "no-oa",
+  "detail": "no open-access location recorded"
+ },
+ {
+  "key": "Kalbfleisch2002",
+  "doi": "10.1002/9781118032985",
+  "status": "no-oa",
+  "detail": "no open-access location recorded"
+ },
+ {
+  "key": "KleinMoeschberger2003",
+  "doi": "10.1007/b97377",
+  "status": "no-oa",
+  "detail": "no open-access location recorded"
+ },
+ {
+  "key": "Slud1983",
+  "doi": "10.1093/biomet/70.3.643",
+  "status": "no-oa",
+  "detail": "no open-access location recorded"
+ },
+ {
+  "key": "Zheng1995",
+  "doi": "10.1093/biomet/82.1.127",
+  "status": "no-oa",
+  "detail": "no open-access location recorded"
+ },
+ {
+  "key": "Tsiatis1975",
+  "doi": "10.1073/pnas.72.1.20",
+  "status": "not-pdf",
+  "detail": "downloaded 92606 bytes, not a PDF"
+ },
+ {
+  "key": "Crowder1994",
+  "doi": "10.2307/1403768",
+  "status": "no-oa",
+  "detail": "no open-access location recorded"
+ },
+ {
+  "key": "Scharfstein1999",
+  "doi": "10.1080/01621459.1999.10473862",
+  "status": "no-oa",
+  "detail": "no open-access location recorded"
+ },
+ {
+  "key": "Wang2001",
+  "doi": "10.1198/016214501753209031",
+  "status": "not-pdf",
+  "detail": "downloaded 208107 bytes, not a PDF"
+ },
+ {
+  "key": "Lin1995",
+  "doi": "10.1214/aos/1176324320",
+  "status": "not-pdf",
+  "detail": "downloaded 1159 bytes, not a PDF"
+ },
+ {
+  "key": "Bartlett2014",
+  "doi": "10.1093/biostatistics/kxu023",
+  "status": "download-fail",
+  "detail": "HTTPError | HTTP Error 403: Forbidden"
+ },
+ {
+  "key": "Manski2003",
+  "doi": "10.1007/b97478",
+  "status": "no-oa",
+  "detail": "no open-access location recorded"
+ },
+ {
+  "key": "Tamer2010",
+  "doi": "10.1146/annurev.economics.050708.143401",
+  "status": "download-fail",
+  "detail": "HTTPError | HTTP Error 403: Forbidden"
+ },
+ {
+  "key": "Hardt2025",
+  "doi": "10.1214/25-sts986",
+  "status": "no-oa",
+  "detail": "no open-access location recorded"
+ },
+ {
+  "key": "Drent2020",
+  "doi": "10.1016/j.orl.2020.10.005",
+  "status": "download-fail",
+  "detail": "HTTPError | HTTP Error 403: Forbidden"
+ },
+ {
+  "key": "BarlowProschan1965",
+  "doi": "10.1137/1.9781611971194",
+  "status": "no-oa",
+  "detail": "no open-access location recorded"
+ }
+]

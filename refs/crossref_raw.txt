@@ -1,0 +1,174 @@
+### scheidegger2013
+   score=90.0   Scheidegger, Andreas; Scholten, Lisa; Maurer, Max; Reichert, Peter | Extension of pipe failure models to consider the absence of data from replaced pipes | Water Research 2013(47):3696-3705 | doi=10.1016/j.watres.2013.04.017
+   score=46.0   Scheidegger, Andreas; Leitão, João P.; Scholten, Lisa | Statistical failure models for water distribution pipes – A review from a unified perspective | Water Research 2015(83):237-247 | doi=10.1016/j.watres.2015.06.027
+   score=43.3   Ouellet, Maxim; Duchesne, Sophie | A method to consider replaced pipes in modeling of sewer pipe deterioration | Urban Water Journal 2018(15):392-397 | doi=10.1080/1573062x.2018.1455883
+
+### legat2014
+   score=86.4   Le Gat, Yves | Extending the Yule process to model recurrent pipe failures in water supply networks | Urban Water Journal 2013(11):617-630 | doi=10.1080/1573062x.2013.783088
+   score=50.9   Le Gat, Yves | Linear Extension of the Yule Process | Recurrent Event Modeling Based on the Yule Pr 2015(-):33-49 | doi=10.1002/9781119261285.ch4
+   score=50.6   Le Gat, Yves | Recurrent Event Modeling Based on the Yule Process |  2015(-):- | doi=10.1002/9781119261285
+
+### renaud2011
+   score=39.1   Renaud, E.; Le Gat, Y.; Poulton, M. | Using a break prediction model for drinking water networks asset management: From research to p | Water Supply 2012(12):674-682 | doi=10.2166/ws.2012.040
+   score=32.4   Le Gat, Yves; Kropp, Ingo; Poulton, Matthew | Is the service life of water distribution pipelines linked to their failure rate? | Water Supply 2013(13):386-393 | doi=10.2166/ws.2013.089
+   score=32.1   Renaud, E.; Bremond, B.; Le Gat, Y. | Water pipes: why ‘lifetime’ is not an adequate concept on which to base pipe renewal strategies | Water Practice and Technology 2014(9):307-315 | doi=10.2166/wpt.2014.032
+
+### kleiner2001
+   score=78.5   Kleiner, Yehuda; Rajani, Balvant | Comprehensive review of structural deterioration of water mains: statistical models | Urban Water 2001(3):131-150 | doi=10.1016/s1462-0758(01)00033-4
+   score=71.1   Rajani, Balvant; Kleiner, Yehuda | Comprehensive review of structural deterioration of water mains: physically based models | Urban Water 2001(3):151-164 | doi=10.1016/s1462-0758(01)00032-2
+   score=46.6   Kleiner, Yehuda; Nafi, Amir; Rajani, Balvant | Planning renewal of water mains while considering deterioration, economies of scale and adjacen | Water Supply 2010(10):897-906 | doi=10.2166/ws.2010.571
+
+### kleiner2002
+   score=63.6   Kleiner, Y.; Rajani, Balvant | Forecasting Variations and Trends in Water-Main Breaks | Journal of Infrastructure Systems 2002(8):122-131 | doi=10.1061/(asce)1076-0342(2002)8:4(122)
+   score=43.1   Rajani, Balvant; Kleiner, Yehuda; Sink, Jean-Eric | Exploration of the relationship between water main breaks and temperature covariates | Urban Water Journal 2012(9):67-84 | doi=10.1080/1573062x.2011.630093
+   score=40.5   Kleiner, Y.; Rajani, B. | I-WARP: individual water main renewal planner |  2010(-):- | doi=10.5194/dwesd-3-25-2010
+
+### legat2000
+   score=81.1   Le Gat, Yves; Eisenbeis, Patrick | Using maintenance records to forecast failures in water networks | Urban Water 2000(2):173-181 | doi=10.1016/s1462-0758(00)00057-1
+   score=36.5   Le Gat, Yves | Extending the Yule process to model recurrent pipe failures in water supply networks | Urban Water Journal 2013(11):617-630 | doi=10.1080/1573062x.2013.783088
+   score=30.1   Renaud, E.; Le Gat, Y.; Poulton, M. | Using a break prediction model for drinking water networks asset management: From research to p | Water Supply 2012(12):674-682 | doi=10.2166/ws.2012.040
+
+### rostum2000
+   score=35.4   Sangroula, Uchit; Kristiansson, Erik; Bergstedt, Olof; Pettersson, Tho | Topology-Informed Survival Modelling for Predicting Future Pipe Failures in Water Distribution  |  2026(-):- | doi=10.2139/ssrn.6990878
+   score=31.7   Akagi, Raquel R.; Cheung, Peter B. | Avaliação de Modelos Estatísticos para Previsão de Falhas em Redes de Distribuição de Água (Eva |  2018(-):- | doi=10.2139/ssrn.3108267
+   score=28.9   Ulusoy, Aly-Joy; Stoianov, Ivan | A tri-level optimization framework for the resilient design of water distribution networks unde |  2026(-):- | doi=10.21203/rs.3.rs-10578990/v1
+
+### alvisi2010
+   score=54.4   Alvisi, S.; Franchini, M. | Calibration and Sensitivity Analysis of the C-Town Pipe Network Model | Water Distribution Systems Analysis 2010 2011(-):1573-1584 | doi=10.1061/41203(425)140
+   score=43.8   Alvisi, Stefano; Franchini, Marco | Comparative analysis of two probabilistic pipe breakage models applied to a real water distribu | Civil Engineering and Environmental Systems 2010(27):1-22 | doi=10.1080/10286600802224064
+   score=42.8   Alvisi, Stefano; Franchini, Marco | Pipe roughness calibration in water distribution systems using grey numbers | Journal of Hydroinformatics 2010(12):424-445 | doi=10.2166/hydro.2010.089
+
+### winkler2018
+   score=39.0   Winkler, Daniel; Haltmeier, Markus; Kleidorfer, Manfred; Rauch, Wolfga | Pipe failure modelling for water distribution networks using boosted decision trees | Structure and Infrastructure Engineering 2018(14):1402-1411 | doi=10.1080/15732479.2018.1443145
+   score=33.1   Nugroho, Widyo; Utomo, Christiono; Iriawan, Nur | A Bayesian Pipe Failure Prediction for Optimizing Pipe Renewal Time in Water Distribution Netwo | Infrastructures 2022(7):136 | doi=10.3390/infrastructures7100136
+   score=32.4   Motiee, Homayoun; Sattari, Mohsen | Pipe Failure Prediction in Water Distribution Networks Using Interpretable Machine Learning und | Water Resources Management 2026(40):- | doi=10.1007/s11269-026-04570-x
+
+### mailhot2000
+   score=35.0    | Handbook for Water Distribution System Model Calibration |  2023(-):- | doi=10.12999/awwa.20854ed1
+   score=33.9   Zhou, Yi | Water Distribution System Rehabilitation Strategy and Model | Deterioration and Optimal Rehabilitation Mode 2018(-):19-46 | doi=10.1201/9780429451799-2
+   score=31.6   Huard, David; Mailhot, Alain | Calibration of hydrological model GR2M using Bayesian uncertainty analysis | Water Resources Research 2008(44):- | doi=10.1029/2007wr005949
+
+### cox1972
+   score=35.6   Cox, David R. | Regression Models and Life-Tables | Springer Series in Statistics 1992(-):527-541 | doi=10.1007/978-1-4612-4380-9_37
+   score=33.9   Prentice, Ross L. | Introduction to Cox (1972) Regression Models and Life-Tables | Springer Series in Statistics 1992(-):519-526 | doi=10.1007/978-1-4612-4380-9_36
+   score=33.4   Cox, D. R. | Regression Models and Life-Tables | Journal of the Royal Statistical Society Seri 1972(34):187-202 | doi=10.1111/j.2517-6161.1972.tb00899.x
+
+### mantel1959
+   score=42.6    | Statistical Aspects of the Analysis of Data From Retrospective Studies of Disease | JNCI: Journal of the National Cancer Institut 1959(-):- | doi=10.1093/jnci/22.4.719
+   score=37.7   Horwitz, Ralph I. | Statistical aspects of the analysis of data from retrospective studies of disease | Journal of Chronic Diseases 1979(32):ii | doi=10.1016/0021-9681(79)90031-6
+   score=36.4    | Stratifying the Analysis of Dichotomous Outcomes: Confounders and Effect Modifiers; The Mantel– | Managing Your Patients' Data in the Neonatal  2006(-):258-268 | doi=10.1002/9780470757451.ch28
+
+### aalen1978
+   score=52.7   Aalen, Odd | Nonparametric Inference for a Family of Counting Processes | The Annals of Statistics 1978(6):701-726 | doi=10.1214/aos/1176344247
+   score=49.9   McKeague, Ian W. | Introduction to Aalen (1978) Nonparametric Inference for a Family of Counting Processes | Springer Series in Statistics 1997(-):347-367 | doi=10.1007/978-1-4612-0667-5_15
+   score=37.5   Aalen, Odd | A Model for Nonparametric Regression Analysis of Counting Processes | Lecture Notes in Statistics 1980(-):1-25 | doi=10.1007/978-1-4615-7397-5_1
+
+### nelson1969
+   score=47.7   Nelson, Wayne | Hazard Plotting for Incomplete Failure Data | Journal of Quality Technology 1969(1):27-52 | doi=10.1080/00224065.1969.11980344
+   score=39.7   Nelson, Wayne | Theory and Applications of Hazard Plotting for Censored Failure Data | Technometrics 1972(14):945-966 | doi=10.1080/00401706.1972.10488991
+   score=39.6   Nelson, Wayne | Theory and Applications of Hazard Plotting for Censored Failure Data | Technometrics 2000(42):12-25 | doi=10.1080/00401706.2000.10485975
+
+### slud1983
+   score=51.5   Slud, Eric V.; Rubinstein, Lawrence V. | Dependent Competing Risks and Summary Survival Curves | Biometrika 1983(70):643 | doi=10.2307/2336500
+   score=48.4   SLUD, ERIC V.; RUBINSTEIN, LAWRENCE V. | Dependent competing risks and summary survival curves | Biometrika 1983(70):643-649 | doi=10.1093/biomet/70.3.643
+   score=39.6   Slud, Eric V.; Kopylev, Leonid | Dependent Competing Risks with Time-Dependent Covariates | Lifetime Data: Models in Reliability and Surv 1996(-):323-330 | doi=10.1007/978-1-4757-5654-8_42
+
+### zheng1995
+   score=82.8   ZHENG, M.; KLEIN, J. P. | Estimates of marginal survival for dependent competing risks based on an assumed copula | Biometrika 1995(82):127-138 | doi=10.1093/biomet/82.1.127
+   score=58.7   Zheng, Ming; Klein, John P. | Identifiability and Estimation of Marginal Survival Functions for Dependent Competing Risks Ass | Lifetime Data: Models in Reliability and Surv 1996(-):401-408 | doi=10.1007/978-1-4757-5654-8_53
+   score=57.5   Zheng, Ming; Klein, John P. | A self-consistent estimator of marginal survival functions based on dependent competing risk da | Communications in Statistics - Theory and Met 1994(23):2299-2311 | doi=10.1080/03610929408831387
+
+### scharfstein1999
+   score=97.6   Scharfstein, Daniel O.; Rotnitzky, Andrea; Robins, James M. | Adjusting for Nonignorable Drop-Out Using Semiparametric Nonresponse Models: Rejoinder | Journal of the American Statistical Associati 1999(94):1135 | doi=10.2307/2669930
+   score=95.5   Scharfstein, Daniel O.; Rotnitzky, Andrea; Robins, James M. | Adjusting for Nonignorable Drop-Out Using Semiparametric Nonresponse Models | Journal of the American Statistical Associati 1999(94):1096-1120 | doi=10.1080/01621459.1999.10473862
+   score=68.3   Diggle, Peter J. | Adjusting for Nonignorable Drop-Out Using Semiparametric Nonresponse Models: Comment | Journal of the American Statistical Associati 1999(94):1128 | doi=10.2307/2669927
+
+### wang2001
+   score=60.2   Wang, Mei-Cheng; Qin, Jing; Chiang, Chin-Tsang | Analyzing Recurrent Event Data With Informative Censoring | Journal of the American Statistical Associati 2001(96):1057-1065 | doi=10.1198/016214501753209031
+   score=49.1   Huang, C.‐Y.; Qin, J.; Wang, M.‐C. | Semiparametric Analysis for Recurrent Event Data with Time‐Dependent Covariates and Informative | Biometrics 2010(66):39-49 | doi=10.1111/j.1541-0420.2009.01266.x
+   score=45.7   Chiang, Chin-Tsang; Wang, Mei-Cheng | Smoothing estimation of rate function for recurrent event data with informative censoring | Annals of the Institute of Statistical Mathem 2004(56):87-100 | doi=10.1007/bf02530526
+
+### tsiatis1975
+   score=56.4   Tsiatis, A | A nonidentifiability aspect of the problem of competing risks. | Proceedings of the National Academy of Scienc 1975(72):20-22 | doi=10.1073/pnas.72.1.20
+   score=38.4   Tsiatis, A. A. | Competing Risks | Encyclopedia of Biostatistics 2005(-):- | doi=10.1002/0470011815.b2a03035
+   score=37.2   Tsiatis, A. A. | Competing Risks: Theory | Wiley StatsRef: Statistics Reference Online 2014(-):- | doi=10.1002/9781118445112.stat05131
+
+### crowder1991
+   score=39.8   Crowder, Martin J. | Multivariate Survival Analysis and Competing Risks |  2012(-):- | doi=10.1201/b11893
+   score=38.8   Crowder, Martin | Identifiability Crises in Competing Risks | International Statistical Review / Revue Inte 1994(62):379 | doi=10.2307/1403768
+   score=38.2    | Latent Lifetimes: Identifiability Crises | Multivariate Survival Analysis and Competing  2012(-):311-332 | doi=10.1201/b11893-23
+
+### bartlett2014
+   score=90.3   Bartlett, Jonathan W.; Carpenter, James R.; Tilling, Kate; Vansteeland | Improving upon the efficiency of complete case analysis when covariates are MNAR | Biostatistics 2014(15):719-730 | doi=10.1093/biostatistics/kxu023
+   score=85.0   Bartlett, J. W.; Carpenter, J. R.; Tilling, K.; Vansteelandt, S. | Corrigendum: Improving upon the efficiency of complete case analysis when covariates are MNAR ( | Biostatistics 2014(16):205-205 | doi=10.1093/biostatistics/kxu051
+   score=38.4   Horton, Nicholas J.; White, Ian R.; Carpenter, James | The performance of multiple imputation for missing covariates relative to complete case analysi | Statistics in Medicine 2010(29):1357-1357 | doi=10.1002/sim.3872
+
+### perdomo2020
+   score=42.9   Hardt, Moritz; Mendler-Dünner, Celestine | Performative Prediction: Past and Future | Statistical Science 2025(40):417-436 | doi=10.1214/25-sts986
+   score=39.0   Hardt, Moritz; Jagadeesan, Meena; Mendler-Dünner, Celestine | Performative Power | Advances in Neural Information Processing Sys 2022(-):22969-22981 | doi=10.52202/068431-1669
+   score=34.5   Mendler-Dünner, Celestine; Carovano, Gabriele; Hardt, Moritz | An engine not a camera: Measuring performative power of online search | Advances in Neural Information Processing Sys 2024(-):59266-59288 | doi=10.52202/079017-1891
+
+### drent2020
+   score=66.1   Drent, Collin; Kapodistria, Stella; Boxma, Onno | Censored lifetime learning: Optimal Bayesian age-replacement policies | Operations Research Letters 2020(48):827-834 | doi=10.1016/j.orl.2020.10.005
+   score=33.2   Drent, Collin; Drent, Melvin; Arts, Joachim; Kapodistria, Stella | Real-Time Integrated Learning and Decision Making for Cumulative Shock Degradation | Manufacturing &amp; Service Operations Manage 2023(25):235-253 | doi=10.1287/msom.2022.1149
+   score=28.8   Boxma, Onno; Saxena, Mayank; Kapodistria, Stella; Núñez Queija, Rudesi | Two queues with random time-limited polling | Probability and Mathematical Statistics 2018(37):257-289 | doi=10.19195/0208-4147.37.2.4
+
+### manski2003
+   score=35.8    | Introduction: Partial Identification and Credible Inference | Springer Series in Statistics None(-):1-5 | doi=10.1007/0-387-21786-x_1
+   score=35.0    | Partial Identification of Probability Distributions | Springer Series in Statistics 2003(-):- | doi=10.1007/b97478
+   score=33.9    | Missing Outcomes | Springer Series in Statistics None(-):6-25 | doi=10.1007/0-387-21786-x_2
+
+### tamer2010
+   score=35.9   Tamer, Elie | Partial Identification in Econometrics | Annual Review of Economics 2010(2):167-195 | doi=10.1146/annurev.economics.050708.143401
+   score=31.1   Molinari, Francesca; Tamer, Elie | Annals Issue on Identification and Decisions | Journal of Econometrics 2012(166):1-2 | doi=10.1016/j.jeconom.2011.11.002
+   score=30.8   Khan, S.; Ponomareva, M.; Tamer, E. | Identification of dynamic binary response models | Journal of Econometrics 2023(237):105515 | doi=10.1016/j.jeconom.2023.105515
+
+### cook2007
+   score=43.9   Hand, David J. | The Statistical Analysis of Recurrent Events by Richard J. Cook, Jerald F. Lawless | International Statistical Review 2008(76):142-143 | doi=10.1111/j.1751-5823.2007.00039_4.x
+   score=41.6   Huang, Chiung‐Yu; Luo, Xianghua | The Statistical Analysis of Recurrent Events by COOK, R. J. and LAWLESS, J. F. | Biometrics 2008(64):987-988 | doi=10.1111/j.1541-0420.2008.01082_1.x
+   score=36.0   Chen, Bingshu E.; Cook, Richard J.; Lawless, Jerald F.; Zhan, Min | Statistical methods for multivariate interval‐censored recurrent events | Statistics in Medicine 2004(24):671-691 | doi=10.1002/sim.1936
+
+### kleinschmidt
+   score=64.4   Rao, M. B.; Klein, John P.; Moeschberger, Melvin L. | Survival Analysis Techniques for Censored and Truncated Data | Technometrics 1998(40):159 | doi=10.2307/1270658
+   score=63.0   Klein, John P.; Moeschberger, Melvin L. | Nonparametric Estimation of Basic Quantities for Right-Censored and Left-Truncated Data | Statistics for Biology and Health 2003(-):91-138 | doi=10.1007/0-387-21645-6_4
+   score=62.8   Klein, John P.; Moeschberger, Melvin L. | Survival Analysis | Statistics for Biology and Health 2003(-):- | doi=10.1007/b97377
+
+### kalbfleisch2002
+   score=50.4   Aitkin, Murray; Kalbfleisch, J. D.; Prentice, R. L. | The Statistical Analysis of Failure Time Data. | Biometrics 1981(37):622 | doi=10.2307/2530581
+   score=49.7   Kalbfleisch, John D.; Prentice, Ross L. | The Statistical Analysis of Failure Time Data | Wiley Series in Probability and Statistics 2002(-):- | doi=10.1002/9781118032985
+   score=49.3   Mackenzie, Gilbert; Kalbfleisch, J. D.; Prentice, R. L. | The Statistical Analysis of Failure Time Data. | The Statistician 1982(31):278 | doi=10.2307/2988004
+
+### barlow1965
+   score=49.3   Barlow, Richard E.; Proschan, Frank | Mathematical Theory of Reliability |  1996(-):- | doi=10.1137/1.9781611971194
+   score=43.5   Basu, A. P.; Barlow, Richard E.; Proschan, Frank | Mathematical Theory of Reliability | Econometrica 1966(34):510 | doi=10.2307/1909951
+   score=42.0   Lomnicki, Z. A.; Barlow, Richard E.; Proschan, Frank; Hunter, Larry C. | Mathematical Theory of Reliability | OR 1966(17):213 | doi=10.2307/3007300
+
+### prentice1981
+   score=56.9   PRENTICE, R. L.; WILLIAMS, B. J.; PETERSON, A. V. | On the regression analysis of multivariate failure time data | Biometrika 1981(68):373-379 | doi=10.1093/biomet/68.2.373
+   score=50.8   Prentice, Ross L.; Zhao, Shanshan | Regression Analysis of Bivariate Failure Time Data | The Statistical Analysis of Multivariate Fail 2019(-):71-98 | doi=10.1201/9780429162367-4
+   score=44.0   Prentice, Ross L.; Zhao, Shanshan | Additional Important Multivariate Failure Time Topics | The Statistical Analysis of Multivariate Fail 2019(-):157-185 | doi=10.1201/9780429162367-8
+
+### lin1994
+   score=62.6   Lin, D. Y.; Ying, Zhiliang | Semiparametric Analysis of General Additive-Multiplicative Hazard Models for Counting Processes | The Annals of Statistics 1995(23):1712-1734 | doi=10.1214/aos/1176324320
+   score=39.9   Zheng, Ming; Lin, Ren-xin; Sun, Yi; Yu, Wen | Nested case-control analysis with general additive-multiplicative hazard models | Applied Mathematics-A Journal of Chinese Univ 2012(27):159-168 | doi=10.1007/s11766-012-2953-1
+   score=37.6   LIN, D. Y.; YING, Z. | Semiparametric analysis of the additive risk model | Biometrika 1994(81):61-71 | doi=10.1093/biomet/81.1.61
+
+### andersen1993
+   score=74.2   Andersen, Per Kragh; Borgan, Ørnulf; Gill, Richard D.; Keiding, Niels | Statistical Models Based on Counting Processes | Springer Series in Statistics 1993(-):- | doi=10.1007/978-1-4612-4348-9
+   score=73.3   Andersen, Per Kragh; Borgan, Ørnulf; Gill, Richard D.; Keiding, Niels | Frailty Models | Springer Series in Statistics 1993(-):660-674 | doi=10.1007/978-1-4612-4348-9_9
+   score=73.0   Bry, Xavier; Andersen, Per Kragh; Borgan, Ørnulf; Gill, Richard D.; et | Statistical Models Based on Counting Processes | Population (French Edition) 1997(52):1046 | doi=10.2307/1534625
+
+### grigg2012
+   score=31.4   Grigg, Neil S. | Infrastructure Finance |  2010(-):- | doi=10.1002/9781118266182
+   score=28.2   Grigg, Neil S. | Economics and Finance for Engineers and Planners |  2009(-):- | doi=10.1061/9780784409749
+   score=25.7   Grigg, Neil S.; Grigg, Neil S. | Water, Wastewater, and Stormwater Infrastructure Management |  2010(-):- | doi=10.1201/9781420032338
+
+### burningham2015
+   score=34.2   Aikman, David Ian | Water services asset management: an international perspective | Infrastructure Asset Management 2014(1):34-41 | doi=10.1680/iasma.14.00008
+   score=33.4   Hunter, Meisha | Water infrastructural heritage: management and governance | Infrastructure Asset Management 2022(9):170-179 | doi=10.1680/jinam.20.00031
+   score=33.2   Nelson, Richard E; Moisio, Susan; Rowe, Reggie | Delivering Buried Infrastructure Rehabilitation Programs in an Asset Management Framework | Proceedings of the Water Environment Federati 2015(2015):3870-3889 | doi=10.2175/193864715819556237
+
+### marlow2010
+   score=31.9   Thuruthy, Nisha | Condition Assessment for Drinking Water Pipelines: Synthesis Report | Water Intelligence Online 2014(13):- | doi=10.2166/9781780405605
+   score=30.5   Macey, Chris; Muylwyk, Quirien | Internal Condition Assessment of Water Main Distribution Systems: Integrating Water Quality, Hy | Pipelines 2026 2026(-):154-161 | doi=10.1061/9780784487105.017
+   score=30.4    | Front Matter for Pipelines 2022: Condition Assessment | Pipelines 2022 2022(-):- | doi=10.1061/9780784484296.fm
